@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  border: 5p solid red;
+}
+
+html {
+  @apply bg-gray-900;
+}
